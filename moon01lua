@@ -1,0 +1,41 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6c7086&height=120&section=header"/>
+<body>
+  <center>
+<div align="center">  
+<h1 align="center">~ Ola, mundo ~</h1>
+
+```shell
+#!/bin/bash
+
+nome="Amanda"
+estudante="Ensino médio"
+
+ 
+message="Ola, Eu sou $nome, um $estudante e eu estou aprendendo a programar"
+do
+message="$message\n- $idiomas"
+done
+
+zenity --info --text="$message Obrigado por vir, espero que goste do meu trabalho"
+
+```
+
+
+<h2> 🦊 ~ Sobre mim ~ 🦊 </h2>
+<pre>
+𝙉𝙤𝙢𝙚: Amanda
+𝙎𝙞𝙨𝙩𝙚𝙢𝙖 𝙊𝙥𝙚𝙧𝙖𝙘𝙞𝙤𝙣𝙖𝙡: windows
+𝙂𝙤𝙨𝙩𝙤𝙨: Filmes, Series, Musicas, Jogos, RPG
+𝙃𝙤𝙗𝙗𝙞𝙚𝙨: Jogar, Escutar Musica,
+</pre>
+
+<h2> ~ 📇 Conhecimento 📇 ~</h2>
+  
+
+  
+<pre>
+  Possuo um namorado com um forte conhecimento em sistemas operacionais tanto como Windows e Linux.
+ Com um profundo conhecimento de interfaces de linha de comando, administração de sistemas e scripts de shell
+ Desenvolvi um histórico comprovado de gerenciamento e otimização eficazes de infraestruturas baseadas em Linux.
+  </pre>
+  
